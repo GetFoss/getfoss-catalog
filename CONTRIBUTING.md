@@ -26,7 +26,7 @@ Before submitting a Pull Request, ensure the software meets the following criter
 3. Find the appropriate category for the software. If no category fits, add it to the `Other` section or suggest a new category in your Pull Request.
 4. Insert the software in alphabetical order within the category using the following template:
 
-* [**Software Name**](https://official-website.com) — A brief, punchy description of what it does and why it's great. ([Review on getfoss.org](https://www.getfoss.org/link-to-review-if-exists))
+* [**Software Name**](https://official-website.com) — A brief, punchy description of what it does and why it's great. ([Review on getfoss.org](https://www.getfoss.org/))
 
 5. If there is already a detailed review on [getfoss.org](https://www.getfoss.org/), please link to it in the review section. If not, you can leave the review link pointing to the main site or omit the review section entirely.
 6. **Commit** your changes with a clear message, e.g., `Add [Software Name] to [Category]`.
@@ -34,7 +34,7 @@ Before submitting a Pull Request, ensure the software meets the following criter
 
 ### Reporting Issues or Suggesting Improvements
 
-If you find a broken link, an inaccurate description, or want to suggest a new category, feel free to [Open an Issue](../../issues). Please provide as much context as possible.
+If you find a broken link, an inaccurate description, or want to suggest a new category, feel free to [Open an Issue](https://github.com/GetFoss/GetFOSS-Catalog/issues). Please provide as much context as possible.
 
 ## 💡 A Note on Reviews
 

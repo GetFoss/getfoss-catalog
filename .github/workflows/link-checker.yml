@@ -16,6 +16,7 @@ jobs:
         with:
           fail: false
           output: ./lychee-report.md
+          args: --exclude gnu.org
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 

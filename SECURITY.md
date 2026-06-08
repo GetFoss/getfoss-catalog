@@ -17,7 +17,7 @@ If you discover any of the following, please report it to us immediately:
 
 **Please do not report security vulnerabilities through public GitHub Issues.**
 
-Instead, please report them by [opening a GitHub Issue using the "Security" label](../../issues/new?labels=security) or by contacting the repository maintainers directly.
+Instead, please report them by [opening a GitHub Issue using the "Security" label](https://github.com/GetFoss/GetFOSS-Catalog/issues/new?labels=security) or by contacting the repository maintainers directly.
 
 To help us resolve the issue quickly, please include:
 

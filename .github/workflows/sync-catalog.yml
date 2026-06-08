@@ -16,9 +16,9 @@ jobs:
       - name: Sync to Codeberg
         run: |
           git remote add codeberg https://GetFoss:${{ secrets.CODEBERG_TOKEN }}@codeberg.org/GetFOSS/GetFOSS-Catalog.git
-          git push codeberg main
+          git push codeberg main --force
 
       - name: Sync to GitLab
         run: |
           git remote add gitlab https://oauth2:${{ secrets.GITLAB_TOKEN }}@gitlab.com/fossgroup/getfoss-catalog.git
-          git push gitlab main
+          git push gitlab main --force

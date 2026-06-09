@@ -46,6 +46,7 @@ If the software is truly FOSS, we will add it to the catalog and later publish a
 * [**FreeBSD**](https://www.freebsd.org/) — The open-source Unix powerhouse. ([Review](https://www.getfoss.org/freebsd-the-open-source-unix-powerhouse))
 
 ## Debian & Ubuntu
+* [**Devuan**](https://www.devuan.org/) — A Systemd-Free Debian Fork. ([Review](https://www.getfoss.org/devuan-a-systemd-free-debian-fork))
 * [**Ubuntu Server**](https://ubuntu.com/server) — The open-source infrastructure powerhouse. ([Review](https://www.getfoss.org/ubuntu-server-the-open-source-infrastructure-powerhouse))
 * [**Debian**](https://www.debian.org/) — The rock-solid open-source OS foundation. ([Review](https://www.getfoss.org/debian-the-rock-solid-open-source-os-foundation))
 * [**Zorin OS**](https://zorin.com/os/) — The ultimate open-source Windows replacement. ([Review](https://www.getfoss.org/zorin-os-the-ultimate-open-source-windows-replacement))
